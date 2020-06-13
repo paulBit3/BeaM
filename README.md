@@ -1,6 +1,5 @@
 # BeaM
-BeaM is a social marketing e-commerce app that interact with businesses and people with live videos. Widen your business Worldwide
-
+BeaM, is a social commerce & marketing  platform that lets businesses interact with customers, and boost their sales. Widen your business Worldwide.
 ![beam_home1](https://user-images.githubusercontent.com/43505777/84476554-f02d8700-ac53-11ea-976c-1037392a38ce.JPG)
 ![beam_home2](https://user-images.githubusercontent.com/43505777/84476558-f0c61d80-ac53-11ea-8994-6a0559e024b7.JPG)
 ![beam_home3](https://user-images.githubusercontent.com/43505777/84476559-f0c61d80-ac53-11ea-8824-2862bad7bb3e.JPG)
