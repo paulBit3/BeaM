@@ -1,10 +1,16 @@
-# BeaM
-BeaM, is a social commerce & marketing  platform that lets businesses interact with customers, and boost their sales. Widen your business Worldwide.
-This is a Frontend Single Page Application built using HTML5, CSS3, Bootstrap, PaperKit, JavaScript.
+🤔About the Project:
+------
+BeaM, is a responsive ecommerce & marketing platform where businesses interact with customers.
 
+------
+It's built following single page architecture using the Front-end tech stack below:
 
-## To run this code <br/>
-1.Clone or download the source <br/>
+------
+HTML5, CSS3, Bootstrap, PaperKit, JavaScript.
+
+------
+## Clone and Test Yourself <br/>
+1.Clone:  ```https://github.com/paulBit3/BeaM.git``` <br/>
 2.Run the index file <br/>
 
 
